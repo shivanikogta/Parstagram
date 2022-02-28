@@ -17,6 +17,7 @@
 		92950DF927C06491002E2EB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92950DF727C06491002E2EB9 /* Main.storyboard */; };
 		92950DFB27C06492002E2EB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92950DFA27C06492002E2EB9 /* Assets.xcassets */; };
 		92950DFE27C06492002E2EB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92950DFC27C06492002E2EB9 /* LaunchScreen.storyboard */; };
+		92BF5B8927CAE5B40075C0D4 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92BF5B8827CAE5B40075C0D4 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		92950DFA27C06492002E2EB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92950DFD27C06492002E2EB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92950DFF27C06492002E2EB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92BF5B8827CAE5B40075C0D4 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		AF6CD5990FCB96A0513EE51B /* Pods-Parstagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram.release.xcconfig"; path = "Target Support Files/Pods-Parstagram/Pods-Parstagram.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -87,6 +89,7 @@
 				92924DB527C1984100BAB29D /* FeedViewController.swift */,
 				92924DB727C1AEF000BAB29D /* CameraViewController.swift */,
 				92924DB927C2AF5100BAB29D /* PostCell.swift */,
+				92BF5B8827CAE5B40075C0D4 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				92924DB627C1984100BAB29D /* FeedViewController.swift in Sources */,
 				92950DF427C06491002E2EB9 /* SceneDelegate.swift in Sources */,
 				92924DBA27C2AF5100BAB29D /* PostCell.swift in Sources */,
+				92BF5B8927CAE5B40075C0D4 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
