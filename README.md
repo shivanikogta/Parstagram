@@ -16,7 +16,7 @@ The following functionality is complete:
 - [x] User can view comments on a post.
 - [x] User can add a new comment.
 
-## Video Walkthrough
+## App Walkthrough GIF
 
 Here's a walkthrough of the implemented user stories:
 
