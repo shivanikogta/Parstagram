@@ -1,10 +1,10 @@
-# Parstagram - Part II
+# Parstagram
 
-This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+**Parstagram** is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments.
 
 ## User Stories
 
-The following functionality is completed:
+The following functionality is complete:
 
 - [x] User sees app icon in home screen and styled launch screen.
 - [x] User can sign up to create a new account.
@@ -18,6 +18,6 @@ The following functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the implemented user stories:
 
 ![](gif2.gif)
